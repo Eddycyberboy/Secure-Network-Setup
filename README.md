@@ -30,9 +30,5 @@ This project focuses on designing and implementing a secure network to protect r
    - Testing results.
    - Explanations of key decisions.
 
-## Next Steps
-1. Design the network diagram.
-2. Set up a virtual lab environment to simulate the network.
-3. Configure the firewall, VPN, and IDS/IPS.
+For more details about the network design, configuration, and testing, check out the [Network Documentation](docs/network-documentation.md).
 
----
